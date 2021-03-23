@@ -8,5 +8,7 @@ Da ich die simulierten Excel-Dateien immer als PDF speichern möchte, damit ich 
 
 Error Handling habe ich nicht wirklich vorgenommen – ich speichere im Fehlerfall (Länge der Rechnungsnummer <= 0) eine "Error.pdf" anstelle der "<Rechnungsnummer>.pdf". 
 
+![Button Simulierte Rechnung als PDF speichern](btn_PrintRechnungAsPDF.png "Button Simulierte Rechnung als PDF speichern")
+
 Quelle:
 [Sven Brunn](https://sven-brunn.de) / Blog / [Kostenloses Rechnungssystem für Kleinunternehmer](https://sven-brunn.de/kostenloses-rechnungssystem-fuer-kleinunternehmer)
